@@ -170,6 +170,7 @@ Engine CC Distribution, Price Category Analysis, Average Mileage by Brand, Top 1
 
 📷 Screenshot file: `images/Screenshot 2026-10-06 190014.png`
 
+<img width="1535" height="871" alt="Screenshot 2026-10-06 190014" src="https://github.com/user-attachments/assets/a67d2778-1f8d-475b-8bcc-2202fff3bc6f" />
 
 ---
 
