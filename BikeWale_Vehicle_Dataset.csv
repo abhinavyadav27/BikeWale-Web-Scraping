@@ -1,0 +1,501 @@
+vehicle_id,brand,model,vehicle_type,fuel_type,ex_showroom_price,on_road_price,mileage_kmpl_or_range_km,engine_cc,power_bhp,transmission,number_of_variants,number_of_colors,city,rating,review_count,model_year
+1,Suzuki,V-Strom SX,Bike,Petrol,430838,481987,69.3,160,12.9,Manual,3,4.0,Ahmedabad,4.5,1695,2023
+2,Honda,Hornet 2.0,Scooter,Petrol,317709,372799,40.0,160,30.5,Manual,3,1.0,Lucknow,3.3,985,2025
+3,Bajaj,Dominar 400,Bike,Petrol,393947,465502,63.7,125,39.7,Manual,4,4.0,Jaipur,,251,2024
+4,Ather,450X,Electric Scooter,Electric,209243,242601,116.5,1,6.2,Manual,4,1.0,Hyderabad,3.5,1031,2024
+5,Yamaha,MT-15,Scooter,Petrol,236829,287212,41.3,110,36.5,Automatic,4,4.0,Jaipur,4.9,347,2025
+6,Royal Enfield,Classic 350,Bike,Petrol,282851,316746,64.3,350,18.3,Manual,3,1.0,Ahmedabad,3.2,1172,2025
+7,Hero,Xtreme 125R,Bike,Petrol,194312,216445,64.2,400,20.6,Automatic,4,1.0,Kolkata,3.8,1761,2023
+8,Bajaj,Dominar 400,Scooter,Petrol,338109,411345,75.5,100,21.6,Automatic,3,2.0,Kolkata,4.6,880,2025
+9,Ather,450X,Electric Scooter,Electric,135015,159785,160.0,1,10.6,Manual,5,5.0,Hyderabad,4.9,1732,2025
+10,Yamaha,FZ-X,Scooter,Petrol,436369,503912,72.3,350,11.0,Manual,4,3.0,Lucknow,3.4,1506,2025
+11,Hero,Splendor Plus,Bike,Petrol,202848,227141,72.7,350,18.6,Manual,4,5.0,Delhi,3.4,693,2026
+12,Yamaha,FZ-FI,Scooter,Petrol,378149,447561,78.9,150,16.4,Automatic,3,1.0,Ahmedabad,3.3,2170,2024
+13,Honda,Hornet 2.0,Scooter,Petrol,417228,466205,53.8,100,16.1,Manual,4,4.0,Kolkata,4.6,132,2023
+14,Yamaha,Fascino 125,Scooter,Petrol,171081,204579,65.3,450,38.0,Manual,5,5.0,Bengaluru,4.3,1965,2025
+15,KTM,250 Duke,Bike,Petrol,302714,358084,53.9,250,13.6,Manual,4,1.0,Jaipur,3.4,2208,2025
+16,KTM,250 Duke,Bike,Petrol,373987,423091,47.0,350,26.6,Automatic,4,4.0,Chennai,4.8,2066,2023
+17,Bajaj,Pulsar NS200,Scooter,Petrol,131690,155005,74.3,200,36.6,Manual,4,,Bengaluru,3.9,1506,2025
+18,Ather,Rizta S,Electric Scooter,Electric,106357,129685,150.4,1,9.5,Manual,3,5.0,Hyderabad,3.9,1425,2025
+19,Bajaj,Pulsar 125,Scooter,Petrol,371208,420142,61.7,450,21.0,Manual,4,5.0,Bengaluru,4.8,2084,2024
+20,Royal Enfield,Hunter 350,Scooter,Petrol,434599,518140,74.6,125,28.7,Manual,4,5.0,Chennai,4.8,1778,2023
+21,Ola,Roadster,Electric Scooter,Electric,200294,227671,196.0,0,5.8,Manual,3,3.0,Mumbai,4.2,1768,2024
+22,KTM,250 Duke,Scooter,Petrol,101631,114894,48.4,200,20.6,Manual,4,1.0,Ahmedabad,4.5,255,2026
+23,Suzuki,Avenis 125,Scooter,Petrol,215262,260379,56.8,110,39.9,Manual,3,4.0,Hyderabad,4.4,409,2024
+24,Bajaj,Dominar 400,Scooter,Petrol,207038,241224,66.9,125,24.7,Manual,4,2.0,Pune,3.7,691,2024
+25,Yamaha,R15 V4,Scooter,Petrol,178632,214545,73.1,160,24.4,Manual,4,3.0,Kolkata,3.4,278,2024
+26,KTM,250 Duke,Bike,Petrol,138847,153154,50.8,400,10.0,Automatic,5,1.0,Chennai,3.3,643,2023
+27,Honda,Shine,Scooter,Petrol,252628,291098,51.2,250,32.0,Automatic,5,4.0,Lucknow,3.8,1006,2024
+28,Ather,Rizta S,Electric Scooter,Electric,163832,189537,124.3,1,12.0,Manual,3,4.0,Delhi,4.0,366,2025
+29,KTM,200 Duke,Scooter,Petrol,425260,499724,75.5,150,21.2,Manual,3,5.0,Hyderabad,4.3,345,2025
+30,Honda,Shine,Scooter,Petrol,418151,479444,65.5,150,28.9,Automatic,3,5.0,Bengaluru,4.7,1301,2025
+31,Hero,Splendor Plus,Scooter,Petrol,396593,465676,48.3,110,8.5,Manual,4,5.0,Lucknow,4.4,427,2025
+32,Ather,Rizta,Electric Scooter,Electric,123513,142059,159.2,0,5.4,Automatic,4,5.0,Jaipur,4.2,1132,2026
+33,TVS,Radeon,Bike,Petrol,261582,314686,63.2,250,42.4,Manual,3,1.0,Bengaluru,3.4,1306,2023
+34,TVS,Sport,Scooter,Petrol,184180,223783,75.8,100,9.0,Automatic,3,4.0,Hyderabad,4.2,1400,2026
+35,Royal Enfield,Himalayan 450,Bike,Petrol,167795,203627,53.1,450,15.1,Automatic,5,5.0,Chennai,4.1,2455,2025
+36,KTM,390 Adventure,Bike,Petrol,103102,115181,61.8,450,11.4,Automatic,3,5.0,Pune,3.4,1686,2026
+37,KTM,125 Duke,Scooter,Petrol,284930,321397,68.2,160,26.5,Automatic,3,1.0,Pune,4.7,520,2025
+38,Ather,Rizta S,Electric Scooter,Electric,104870,120696,143.0,1,10.6,Automatic,5,3.0,Mumbai,4.0,1091,2026
+39,Ola,Roadster,Bike,Electric,137224,157119,164.9,1,14.6,Manual,3,5.0,Pune,4.6,694,2026
+40,Royal Enfield,Himalayan 450,Bike,Petrol,272611,302340,43.0,125,33.4,Manual,3,1.0,Chennai,4.5,480,2023
+41,KTM,390 Duke,Scooter,Petrol,131203,151624,53.4,400,14.1,Manual,4,4.0,Chennai,5.0,1956,2024
+42,Hero,Splendor Plus,Bike,Petrol,382428,464258,72.6,125,38.3,Automatic,5,1.0,Mumbai,3.3,807,2024
+43,Royal Enfield,Hunter 350,Scooter,Petrol,92712,110323,59.2,100,21.3,Manual,5,3.0,Delhi,4.7,1643,2023
+44,Bajaj,Pulsar 125,Bike,Petrol,243998,290355,74.6,100,27.3,Automatic,5,5.0,Chennai,4.9,92,2023
+45,Royal Enfield,Hunter 350,Scooter,Petrol,372250,439480,51.0,150,15.7,Automatic,5,2.0,Lucknow,,2175,2025
+46,Honda,Hornet 2.0,Bike,Petrol,180765,201749,78.7,450,22.3,Manual,5,5.0,Chennai,4.4,2132,2025
+47,Suzuki,V-Strom SX,Scooter,Petrol,71949,82921,64.3,110,21.9,Automatic,3,1.0,Ahmedabad,4.8,551,2025
+48,KTM,250 Duke,Bike,Petrol,312940,362714,71.9,400,42.2,Manual,3,2.0,Pune,4.1,214,2024
+49,Bajaj,Pulsar 125,Bike,Petrol,276791,310451,46.1,200,33.5,Automatic,3,3.0,Bengaluru,4.1,681,2024
+50,KTM,250 Duke,Bike,Petrol,122108,135619,46.8,400,13.7,Manual,3,4.0,Lucknow,4.8,1978,2024
+51,KTM,390 Adventure,Bike,Petrol,88624,102928,43.7,350,33.1,Manual,3,1.0,Lucknow,4.8,2065,2023
+52,Bajaj,Platina 110,Scooter,Petrol,176317,209193,49.4,250,27.2,Manual,5,3.0,Kolkata,4.4,928,2024
+53,Honda,SP 125,Scooter,Petrol,170186,190927,55.9,350,35.0,Automatic,3,2.0,Jaipur,4.8,2082,2026
+54,KTM,250 Duke,Bike,Petrol,190036,222422,59.2,150,27.4,Automatic,3,4.0,Bengaluru,3.9,1551,2026
+55,KTM,200 Duke,Bike,Petrol,140703,158779,59.9,200,30.0,Manual,4,4.0,Ahmedabad,4.8,768,2025
+56,Bajaj,Platina 110,Scooter,Petrol,336255,406898,44.5,110,28.9,Manual,4,1.0,Ahmedabad,4.5,1474,2024
+57,Ola,S1 Pro,Electric Scooter,Electric,182579,210158,112.6,1,8.2,Manual,3,4.0,Delhi,4.3,329,2024
+58,Royal Enfield,Bullet 350,Bike,Petrol,326987,372894,52.8,125,9.0,Manual,5,2.0,Mumbai,3.8,1629,2023
+59,Royal Enfield,Hunter 350,Bike,Petrol,312754,357123,58.9,200,22.6,Automatic,4,4.0,Mumbai,3.4,385,2025
+60,Ather,450X,Electric Scooter,Electric,209450,251554,191.9,1,,Manual,3,5.0,Bengaluru,3.5,2062,2025
+61,KTM,390 Duke,Bike,Petrol,79060,91132,63.5,110,38.0,Manual,5,5.0,Pune,4.2,584,2025
+62,Hero,Splendor Plus,Bike,Petrol,230088,278125,55.7,110,27.7,Automatic,5,3.0,Kolkata,4.5,1481,2026
+63,Hero,Xtreme 160R,Scooter,Petrol,196994,233406,71.5,200,35.6,Automatic,3,4.0,Pune,4.5,526,2025
+64,KTM,125 Duke,Scooter,Petrol,219782,255007,55.2,300,30.0,Manual,3,4.0,Mumbai,3.2,1965,2026
+65,KTM,250 Duke,Bike,Petrol,136315,153665,47.3,400,20.0,Manual,4,3.0,Lucknow,4.3,994,2023
+66,Ola,Roadster X,Electric Scooter,Electric,122219,144813,191.1,0,14.2,Manual,5,2.0,Jaipur,4.0,1440,2023
+67,Royal Enfield,Himalayan 450,Scooter,Petrol,197717,238128,47.5,250,42.0,Manual,5,5.0,Jaipur,4.5,211,2026
+68,Ather,Rizta S,Electric Scooter,Electric,125738,152238,133.8,0,13.6,Manual,5,2.0,Delhi,4.3,964,2026
+69,Bajaj,Pulsar 125,Bike,Petrol,347100,393372,76.6,100,36.7,Manual,4,5.0,Delhi,3.5,1117,2023
+70,Hero,Xtreme 160R,Scooter,Petrol,220989,258877,43.4,300,26.1,Manual,5,3.0,Ahmedabad,4.8,2089,2024
+71,Hero,Mavrick 440,Bike,Petrol,155397,185398,73.5,125,9.5,Manual,4,4.0,Delhi,3.9,1711,2025
+72,TVS,Sport,Scooter,Petrol,339486,399670,77.8,400,17.3,Manual,5,4.0,Mumbai,4.8,842,2023
+73,Suzuki,Gixxer,Scooter,Petrol,357822,427952,66.9,300,11.0,Manual,3,4.0,Ahmedabad,3.4,2153,2026
+74,Ola,S1 Air,Scooter,Electric,212157,235586,112.5,0,8.2,Automatic,3,5.0,Bengaluru,3.4,924,2026
+75,Honda,SP 125,Bike,Petrol,325910,373350,65.0,450,16.9,Automatic,3,5.0,Pune,4.6,914,2024
+76,Royal Enfield,Meteor 350,Bike,Petrol,447451,522575,79.0,300,11.3,Automatic,5,1.0,Mumbai,3.2,530,2026
+77,Honda,CB200X,Bike,Petrol,387918,472534,48.7,200,38.7,Manual,3,2.0,Kolkata,4.4,2185,2023
+78,KTM,390 Duke,Bike,Petrol,96653,115942,42.7,160,31.8,Manual,4,5.0,Jaipur,3.7,740,2026
+79,Honda,Hornet 2.0,Bike,Petrol,112924,129408,47.0,100,22.9,Manual,4,4.0,Pune,4.5,702,2026
+80,Bajaj,Pulsar NS160,Bike,Petrol,122492,145310,73.5,450,20.5,Manual,5,2.0,Kolkata,4.4,767,2024
+81,Royal Enfield,Hunter 350,Scooter,Petrol,302091,334164,61.6,125,29.6,Manual,3,3.0,Mumbai,4.3,1534,2023
+82,Ather,450S,Electric Scooter,Electric,216132,239715,165.7,1,9.6,Manual,5,2.0,Bengaluru,3.8,1050,2024
+83,Ather,450S,Electric Scooter,Electric,217413,260197,195.4,0,12.3,Automatic,4,1.0,Mumbai,4.1,498,2023
+84,KTM,200 Duke,Scooter,Petrol,397486,480902,80.0,400,28.6,Manual,3,1.0,Bengaluru,4.9,1531,2025
+85,Suzuki,Avenis 125,Scooter,Petrol,363206,422297,74.5,250,24.3,Automatic,4,3.0,Mumbai,4.8,1204,2026
+86,KTM,390 Duke,Bike,Petrol,159071,186925,61.6,200,19.1,Automatic,4,4.0,Mumbai,3.2,555,2024
+87,Suzuki,Avenis 125,Bike,Petrol,291577,321067,77.6,125,9.7,Manual,3,5.0,Chennai,4.1,281,2026
+88,Ather,450X,Electric Scooter,Electric,109574,120575,136.3,0,12.3,Manual,4,2.0,Hyderabad,4.5,302,2023
+89,Hero,Mavrick 440,Scooter,Petrol,308662,344137,57.1,100,21.9,Automatic,3,5.0,Chennai,3.4,719,2025
+90,Ola,S1 Air,Scooter,Electric,109262,131173,199.0,0,9.0,Manual,5,5.0,Lucknow,3.3,834,2024
+91,Ather,450S,Scooter,Electric,203533,245472,178.1,1,14.7,Automatic,4,1.0,Lucknow,4.1,859,2024
+92,Hero,Xtreme 125R,Scooter,Petrol,72906,80502,49.0,300,35.4,Automatic,3,2.0,Jaipur,3.9,997,2023
+93,Ather,450 Apex,Scooter,Electric,179377,213140,179.0,1,14.3,Manual,5,3.0,Chennai,3.3,923,2024
+94,Royal Enfield,Meteor 350,Scooter,Petrol,199092,240095,75.8,100,9.3,Manual,5,2.0,Bengaluru,3.8,1899,2026
+95,Hero,Xtreme 125R,Scooter,Petrol,84623,100279,49.8,450,40.0,Automatic,3,5.0,Lucknow,3.4,2479,2026
+96,Suzuki,Avenis 125,Bike,Petrol,114708,126250,74.9,125,40.4,Automatic,3,2.0,Hyderabad,4.2,598,2023
+97,Suzuki,Burgman Street,Scooter,Petrol,140418,160807,79.2,100,11.4,Manual,3,3.0,Pune,3.7,595,2023
+98,Honda,Hornet 2.0,Scooter,Petrol,296758,350930,77.3,200,42.6,Manual,5,1.0,Pune,4.5,895,2023
+99,Yamaha,MT-15,Scooter,Petrol,441826,517523,74.1,150,31.6,Manual,3,3.0,Delhi,,2136,2026
+100,Bajaj,Pulsar NS200,Scooter,Petrol,292286,336463,57.8,110,44.9,Manual,5,5.0,Hyderabad,4.7,1720,2024
+101,TVS,Raider 125,Bike,Petrol,117930,143077,78.0,300,23.4,Manual,5,4.0,Pune,4.6,1420,2025
+102,Hero,HF Deluxe,Scooter,Petrol,311693,367237,49.2,125,8.2,Manual,5,4.0,Ahmedabad,3.5,994,2023
+103,Royal Enfield,Bullet 350,Scooter,Petrol,412697,468535,70.4,125,37.3,Automatic,4,3.0,Hyderabad,4.6,2263,2025
+104,Hero,Xtreme 160R,Scooter,Petrol,99531,117266,62.3,350,13.1,Manual,4,3.0,Delhi,3.2,283,2024
+105,Honda,Unicorn,Bike,Petrol,129288,149672,78.1,350,8.5,Manual,3,4.0,Jaipur,4.2,601,2024
+106,Yamaha,FZ-X,Scooter,Petrol,362632,421424,62.4,110,19.4,Manual,3,1.0,Hyderabad,3.8,2251,2024
+107,Suzuki,Burgman Street,Scooter,Petrol,403041,475768,72.0,110,8.6,Automatic,3,3.0,Pune,4.3,2280,2026
+108,Ather,450X,Scooter,Electric,219461,243517,176.2,0,13.1,Automatic,4,2.0,Pune,4.0,524,2025
+109,Ather,Rizta,Electric Scooter,Electric,196562,219981,169.7,1,7.5,Automatic,4,3.0,Kolkata,4.0,694,2026
+110,Suzuki,Avenis 125,Bike,Petrol,419591,494442,59.9,110,7.8,Manual,3,3.0,Bengaluru,3.3,764,2025
+111,Yamaha,FZ-FI,Bike,Petrol,439484,501676,69.1,300,23.2,Manual,4,1.0,Bengaluru,4.2,2477,2024
+112,Royal Enfield,Classic 350,Scooter,Petrol,108585,123051,63.9,150,23.0,Automatic,4,5.0,Bengaluru,4.3,2078,2025
+113,Hero,Xtreme 125R,Scooter,Petrol,84975,97274,56.2,250,31.0,Manual,3,5.0,Pune,4.1,2375,2024
+114,Ola,S1 X,Electric Scooter,Electric,130893,148037,161.7,0,14.7,Automatic,5,1.0,Ahmedabad,4.3,310,2025
+115,KTM,250 Duke,Scooter,Petrol,409333,457426,53.2,400,32.4,Manual,5,4.0,Delhi,3.7,2013,2026
+116,Ather,450 Apex,Electric Scooter,Electric,100563,116006,142.2,0,12.1,Automatic,4,4.0,Hyderabad,3.7,978,2025
+117,Royal Enfield,Meteor 350,Scooter,Petrol,223492,270887,65.6,125,24.2,Manual,3,3.0,Lucknow,3.9,2299,2026
+118,Honda,Shine,Scooter,Petrol,388356,449973,74.7,300,26.6,Automatic,5,5.0,Hyderabad,4.5,901,2025
+119,Ola,S1 Pro,Electric Scooter,Electric,190823,225766,115.8,0,6.8,Automatic,4,3.0,Lucknow,3.2,312,2026
+120,Hero,Xtreme 160R,Bike,Petrol,238895,268967,71.8,150,32.7,Automatic,3,5.0,Jaipur,3.4,1019,2026
+121,Yamaha,FZ-FI,Bike,Petrol,269456,305736,79.7,350,10.4,Manual,4,5.0,Pune,3.8,1647,2025
+122,Yamaha,MT-15,Scooter,Petrol,423796,485281,71.9,125,40.0,Manual,5,1.0,Chennai,3.8,720,2025
+123,Royal Enfield,Bullet 350,Scooter,Petrol,227396,262263,57.9,100,27.7,Manual,5,3.0,Ahmedabad,4.4,971,2024
+124,Ather,450 Apex,Electric Scooter,Electric,91471,109550,147.1,1,14.1,Manual,3,2.0,Chennai,3.6,1773,2025
+125,Suzuki,Burgman Street,Scooter,Petrol,405858,446812,60.8,160,14.4,Automatic,5,1.0,Hyderabad,4.9,333,2023
+126,Yamaha,R15 V4,Scooter,Petrol,373557,424688,59.4,160,17.8,Automatic,5,2.0,Hyderabad,4.5,11,2023
+127,TVS,Radeon,Bike,Petrol,151365,169854,47.2,400,37.4,Manual,3,2.0,Lucknow,4.9,1117,2026
+128,Yamaha,FZ-FI,Scooter,Petrol,398175,468476,61.1,450,7.1,Manual,3,2.0,Jaipur,4.4,993,2024
+129,Ather,Rizta S,Scooter,Electric,204503,231697,151.2,0,12.8,Automatic,5,2.0,Jaipur,3.4,1472,2024
+130,Royal Enfield,Hunter 350,Bike,Petrol,82633,91131,58.9,160,10.6,Automatic,5,3.0,Lucknow,3.7,1110,2023
+131,Ather,450S,Bike,Electric,89358,103074,166.5,0,9.4,Automatic,5,4.0,Bengaluru,4.3,1135,2024
+132,Suzuki,Avenis 125,Scooter,Petrol,77323,88778,43.4,100,29.6,Manual,4,1.0,Kolkata,3.3,965,2023
+133,Royal Enfield,Classic 350,Bike,Petrol,372257,426390,53.3,200,9.0,Manual,5,2.0,Kolkata,4.0,671,2026
+134,KTM,390 Duke,Bike,Petrol,107828,123909,65.4,350,13.5,Manual,5,4.0,Delhi,3.7,1689,2024
+135,Suzuki,V-Strom SX,Bike,Petrol,375375,437235,40.8,150,42.2,Automatic,3,4.0,Pune,3.7,465,2025
+136,Hero,Mavrick 440,Scooter,Petrol,75699,84338,71.3,110,9.4,Manual,3,2.0,Jaipur,3.4,2020,2023
+137,Ather,450S,Electric Scooter,Electric,123067,142989,120.8,1,11.0,Automatic,5,4.0,Chennai,3.9,21,2025
+138,Hero,HF Deluxe,Scooter,Petrol,352313,418044,65.1,300,27.2,Manual,5,4.0,Jaipur,3.8,139,2025
+139,Honda,Hornet 2.0,Scooter,Petrol,401664,465307,59.2,100,42.1,Automatic,4,5.0,Hyderabad,4.1,1970,2024
+140,Ather,Rizta S,Electric Scooter,Electric,186268,206682,92.8,0,7.3,Automatic,3,4.0,Mumbai,3.7,399,2026
+141,Honda,Hornet 2.0,Bike,Petrol,268218,309839,55.5,160,36.7,Manual,5,2.0,Ahmedabad,3.7,992,2025
+142,Ather,450 Apex,Electric Scooter,Electric,113141,132846,101.1,1,11.9,Automatic,3,5.0,Kolkata,3.6,829,2026
+143,Yamaha,MT-15,Bike,Petrol,97371,111947,56.2,125,21.0,Automatic,3,5.0,Pune,4.9,1216,2024
+144,Royal Enfield,Himalayan 450,Scooter,Petrol,351166,399915,45.5,250,30.5,Automatic,3,5.0,Chennai,4.6,182,2026
+145,TVS,Sport,Bike,Petrol,200870,224023,60.0,250,12.7,Automatic,4,3.0,Jaipur,4.3,1958,2024
+146,KTM,390 Adventure,Scooter,Petrol,444504,539245,78.2,100,32.0,Automatic,3,1.0,Lucknow,4.9,2289,2023
+147,Suzuki,Burgman Street,Scooter,Petrol,284861,331068,65.5,100,9.5,Manual,3,5.0,Ahmedabad,3.3,96,2025
+148,Hero,Mavrick 440,Bike,Petrol,154570,177216,40.5,160,26.3,Manual,5,4.0,Bengaluru,4.4,572,2025
+149,KTM,390 Adventure,Bike,Petrol,169797,187203,73.2,300,17.1,Manual,3,1.0,Jaipur,3.9,972,2023
+150,TVS,Apache RTR 160,Scooter,Petrol,238672,288196,65.8,400,25.2,Manual,5,2.0,Pune,4.1,2217,2025
+151,Honda,Unicorn,Scooter,Petrol,110838,126872,44.4,110,15.5,Manual,4,1.0,Mumbai,4.9,2471,2026
+152,Royal Enfield,Meteor 350,Scooter,Petrol,392090,462891,75.5,300,44.7,Manual,5,1.0,Jaipur,4.2,2206,2023
+153,Royal Enfield,Meteor 350,Scooter,Petrol,325298,394419,52.8,200,44.4,Manual,4,2.0,Chennai,4.5,292,2024
+154,Bajaj,Dominar 400,Bike,Petrol,435965,495128,61.7,100,26.3,Automatic,3,4.0,Jaipur,4.6,1144,2026
+155,KTM,200 Duke,Scooter,Petrol,120147,134958,69.1,100,17.6,Automatic,4,3.0,Jaipur,4.2,2359,2025
+156,Honda,Shine,Scooter,Petrol,182235,201231,61.0,400,35.9,Automatic,4,1.0,Mumbai,4.6,1788,2025
+157,Suzuki,Gixxer,Bike,Petrol,409761,494313,54.7,150,34.4,Automatic,3,5.0,Pune,4.5,2462,2024
+158,Yamaha,FZ-X,Scooter,Petrol,98848,114438,55.5,100,29.4,Automatic,3,2.0,Kolkata,4.5,171,2024
+159,Honda,Unicorn,Bike,Petrol,436602,497774,59.9,125,9.2,Automatic,4,5.0,Hyderabad,4.1,441,2023
+160,TVS,Sport,Bike,Petrol,141256,168965,43.5,150,9.4,Automatic,3,4.0,Pune,4.4,2458,2024
+161,TVS,Apache RTR 160,Scooter,Petrol,193046,229660,44.7,200,44.7,Automatic,4,5.0,Jaipur,4.2,147,2024
+162,Bajaj,Platina 110,Bike,Petrol,158808,184562,63.4,200,17.4,Manual,3,3.0,Lucknow,4.7,931,2025
+163,Royal Enfield,Himalayan 450,Scooter,Petrol,349580,404798,59.2,160,24.4,Manual,4,2.0,Bengaluru,4.0,1871,2023
+164,Yamaha,FZ-X,Scooter,Petrol,203808,224517,70.1,300,24.9,Manual,4,4.0,Kolkata,3.6,279,2026
+165,KTM,200 Duke,Bike,Petrol,376877,417398,42.6,150,8.3,Automatic,3,5.0,Hyderabad,3.8,2020,2025
+166,Yamaha,MT-15,Scooter,Petrol,131707,157962,45.1,250,22.0,Automatic,4,1.0,Chennai,5.0,1115,2023
+167,Bajaj,Pulsar NS160,Bike,Petrol,162239,190310,53.5,125,43.9,Manual,3,1.0,Mumbai,4.5,904,2024
+168,Ather,450S,Electric Scooter,Electric,182852,202622,115.0,1,12.2,Automatic,3,2.0,Pune,3.6,862,2023
+169,Honda,Shine,Scooter,Petrol,186673,217558,58.5,125,31.7,Manual,4,4.0,Lucknow,5.0,2300,2025
+170,Hero,Mavrick 440,Scooter,Petrol,270977,304737,53.2,150,26.7,Automatic,4,4.0,Jaipur,4.2,890,2025
+171,Honda,Shine,Scooter,Petrol,340709,407420,53.7,100,21.8,Manual,5,1.0,Mumbai,3.4,316,2025
+172,Ola,Roadster X,Electric Scooter,Electric,207775,244375,129.2,0,10.8,Automatic,5,2.0,Lucknow,4.0,2443,2025
+173,Bajaj,Platina 110,Bike,Petrol,275545,309779,46.8,200,12.3,Manual,3,4.0,Chennai,4.0,2423,2024
+174,Bajaj,Pulsar 125,Scooter,Petrol,407829,496774,52.8,100,22.9,Automatic,3,2.0,Hyderabad,5.0,1539,2025
+175,Suzuki,Gixxer,Bike,Petrol,336896,406577,43.7,150,34.3,Manual,3,3.0,Jaipur,4.7,1467,2024
+176,Bajaj,Dominar 400,Scooter,Petrol,187232,217059,58.8,350,20.6,Automatic,4,2.0,Chennai,3.4,1251,2024
+177,Hero,Mavrick 440,Bike,Petrol,83099,98876,76.2,125,24.1,Automatic,4,1.0,Chennai,4.7,940,2023
+178,TVS,Apache RTR 200 4V,Scooter,Petrol,152969,180779,53.0,300,7.1,Manual,3,3.0,Hyderabad,4.8,1848,2024
+179,Royal Enfield,Bullet 350,Bike,Petrol,437013,520888,70.4,150,40.1,Automatic,3,2.0,Bengaluru,4.8,2276,2025
+180,Honda,Hornet 2.0,Bike,Petrol,139567,155378,45.2,125,44.1,Manual,3,2.0,Pune,3.7,1977,2023
+181,Bajaj,Pulsar NS200,Bike,Petrol,304017,357087,68.0,150,44.3,Automatic,5,1.0,Bengaluru,4.8,407,2026
+182,Yamaha,Fascino 125,Bike,Petrol,108472,123241,49.7,100,24.8,Automatic,5,1.0,Jaipur,3.3,77,2026
+183,Ola,S1 Pro,Electric Scooter,Electric,174709,193835,127.4,1,6.9,Manual,3,4.0,Bengaluru,3.7,503,2024
+184,Royal Enfield,Himalayan 450,Bike,Petrol,385787,448681,48.8,100,35.0,Manual,5,1.0,Mumbai,4.8,1041,2023
+185,Suzuki,V-Strom SX,Scooter,Petrol,175155,196135,58.6,350,20.0,Manual,3,3.0,Pune,4.3,188,2026
+186,Suzuki,V-Strom SX,Scooter,Petrol,295147,358327,55.4,125,31.8,Automatic,5,1.0,Delhi,3.7,2271,2023
+187,Honda,Shine,Bike,Petrol,413939,469083,64.2,450,12.3,Automatic,3,5.0,Delhi,4.3,151,2025
+188,TVS,Sport,Bike,Petrol,151716,167556,40.2,100,15.3,Manual,4,5.0,Chennai,4.2,327,2024
+189,Yamaha,FZ-FI,Bike,Petrol,201535,234545,43.5,350,38.1,Automatic,5,1.0,Kolkata,4.1,1527,2025
+190,Hero,Xtreme 160R,Bike,Petrol,109363,129153,75.3,160,16.8,Manual,4,4.0,Lucknow,4.5,868,2024
+191,Suzuki,Avenis 125,Bike,Petrol,393406,438151,41.6,150,33.1,Manual,5,4.0,Mumbai,3.4,1784,2026
+192,Ola,Roadster X,Scooter,Electric,146350,167341,135.4,0,11.8,Automatic,4,2.0,Bengaluru,4.8,1573,2025
+193,TVS,Raider 125,Bike,Petrol,427076,505396,42.7,300,38.2,Manual,5,1.0,Kolkata,4.2,1390,2023
+194,Hero,Splendor Plus,Bike,Petrol,377727,434987,66.1,160,33.3,Automatic,5,1.0,Chennai,4.8,1063,2026
+195,Honda,Unicorn,Bike,Petrol,144003,163913,63.2,350,23.4,Automatic,4,3.0,Jaipur,3.2,1413,2023
+196,Ola,S1 Pro,Electric Scooter,Electric,153803,172034,94.9,0,8.5,Manual,4,4.0,Bengaluru,3.8,1512,2025
+197,Hero,Splendor Plus,Scooter,Petrol,349996,408502,61.2,150,29.0,Manual,3,5.0,Mumbai,4.1,1409,2026
+198,Bajaj,Pulsar NS200,Bike,Petrol,285931,328734,44.0,200,42.2,Manual,4,3.0,Chennai,3.7,2179,2023
+199,Royal Enfield,Classic 350,Scooter,Petrol,73036,87585,59.0,200,29.9,Automatic,3,3.0,Hyderabad,3.3,1311,2026
+200,Royal Enfield,Himalayan 450,Bike,Petrol,67352,80865,61.3,200,16.4,Manual,4,5.0,Bengaluru,3.5,350,2024
+201,Royal Enfield,Meteor 350,Bike,Petrol,184619,206416,53.9,300,45.0,Automatic,5,5.0,Delhi,4.5,2161,2024
+202,Ather,450X,Electric Scooter,Electric,217379,245058,183.8,0,10.4,Automatic,3,2.0,Pune,4.2,2303,2023
+203,Yamaha,R15 V4,Bike,Petrol,344003,414610,42.3,300,17.5,Automatic,3,3.0,Bengaluru,4.1,1781,2026
+204,Yamaha,MT-15,Scooter,Petrol,137805,161603,60.9,300,23.8,Automatic,5,2.0,Delhi,4.8,91,2026
+205,Bajaj,Dominar 400,Bike,Petrol,249482,274525,48.0,350,9.3,Automatic,3,3.0,Pune,,1046,2025
+206,Suzuki,Burgman Street,Scooter,Petrol,314877,366286,67.5,450,40.1,Automatic,3,4.0,Mumbai,3.8,705,2024
+207,Ather,450 Apex,Scooter,Electric,169761,187637,181.1,0,5.0,Manual,3,1.0,Chennai,3.2,657,2023
+208,Ather,450S,Scooter,Electric,162064,186188,169.5,1,9.1,Manual,5,3.0,Mumbai,3.2,2140,2025
+209,Yamaha,MT-15,Scooter,Petrol,136312,157766,60.0,400,16.2,Manual,4,5.0,Ahmedabad,3.7,1323,2025
+210,Bajaj,Pulsar NS200,Scooter,Petrol,428228,503963,63.3,250,15.6,Automatic,3,3.0,Chennai,3.9,1314,2024
+211,Hero,HF Deluxe,Scooter,Petrol,154571,179790,65.0,150,31.2,Manual,4,4.0,Chennai,4.6,1055,2024
+212,TVS,Apache RTR 200 4V,Bike,Petrol,398270,480250,68.8,250,13.0,Automatic,5,3.0,Jaipur,4.5,1474,2025
+213,Hero,HF Deluxe,Bike,Petrol,378105,442380,51.0,200,41.0,Manual,4,5.0,Jaipur,3.3,677,2025
+214,Ather,450S,Electric Scooter,Electric,198550,227395,193.7,0,14.1,Automatic,3,1.0,Lucknow,3.3,1958,2023
+215,Ather,450X,Electric Scooter,Electric,170716,193492,168.4,0,6.8,Manual,5,1.0,Jaipur,3.4,1756,2026
+216,Royal Enfield,Classic 350,Bike,Petrol,344652,397014,59.9,250,26.0,Manual,4,3.0,Jaipur,3.3,1046,2024
+217,Royal Enfield,Himalayan 450,Scooter,Petrol,91654,106014,68.8,350,32.0,Automatic,3,4.0,Kolkata,4.3,171,2023
+218,Ola,Roadster X,Electric Scooter,Electric,147491,174863,197.2,1,9.0,Manual,3,4.0,Bengaluru,4.4,2106,2024
+219,Yamaha,MT-15,Bike,Petrol,127507,146058,44.0,400,7.6,Manual,4,1.0,Hyderabad,4.9,684,2023
+220,Bajaj,Pulsar 125,Scooter,Petrol,232093,256462,50.7,450,40.4,Manual,3,4.0,Kolkata,4.6,2161,2026
+221,KTM,390 Duke,Bike,Petrol,228317,261224,40.7,450,21.5,Manual,5,5.0,Jaipur,4.6,2069,2026
+222,Royal Enfield,Meteor 350,Bike,Petrol,380014,458991,75.2,125,7.9,Automatic,3,5.0,Pune,3.5,625,2025
+223,Ather,Rizta S,Electric Scooter,Electric,116131,128550,142.1,1,9.7,Automatic,3,5.0,Ahmedabad,5.0,443,2025
+224,Yamaha,FZ-FI,Bike,Petrol,234530,275500,69.0,250,12.4,Automatic,3,3.0,Chennai,4.1,1101,2025
+225,Hero,Splendor Plus,Bike,Petrol,88091,106310,53.5,200,24.9,Automatic,4,2.0,Delhi,4.9,1853,2023
+226,Ola,S1 X,Bike,Electric,132118,146539,129.0,1,11.8,Manual,4,2.0,Lucknow,3.5,1767,2025
+227,Yamaha,Fascino 125,Scooter,Petrol,404371,493089,75.9,100,12.2,Manual,5,4.0,Pune,3.4,589,2025
+228,Ola,S1 Air,Bike,Electric,90451,101407,118.5,0,14.2,Manual,4,2.0,Pune,3.5,892,2023
+229,Honda,Shine,Bike,Petrol,341266,391478,60.9,110,43.7,Automatic,4,4.0,Delhi,4.0,196,2026
+230,Ola,S1 Pro,Electric Scooter,Electric,162960,197368,181.9,1,8.6,Manual,5,5.0,Ahmedabad,4.7,881,2024
+231,Suzuki,Gixxer,Scooter,Petrol,408194,449035,41.2,125,41.0,Automatic,4,3.0,Mumbai,5.0,610,2023
+232,Suzuki,Access 125,Bike,Petrol,74171,85543,43.6,125,9.2,Manual,3,2.0,Hyderabad,3.9,702,2025
+233,Honda,Hornet 2.0,Bike,Petrol,247385,275146,76.1,400,41.9,Manual,5,1.0,Jaipur,3.6,1226,2023
+234,Yamaha,MT-15,Scooter,Petrol,99540,114709,49.0,150,29.1,Automatic,5,4.0,Lucknow,4.7,1142,2026
+235,Suzuki,Burgman Street,Scooter,Petrol,334956,404180,56.8,150,38.3,Manual,3,5.0,Ahmedabad,3.5,121,2025
+236,Ather,450 Apex,Electric Scooter,Electric,185772,222982,140.6,0,13.1,Manual,4,5.0,Ahmedabad,3.8,299,2023
+237,Hero,Mavrick 440,Scooter,Petrol,311038,342142,77.2,160,36.1,Manual,4,5.0,Jaipur,5.0,2448,2025
+238,Yamaha,Fascino 125,Bike,Petrol,365546,444512,75.3,200,34.7,Manual,5,4.0,Jaipur,4.7,1859,2024
+239,Royal Enfield,Hunter 350,Scooter,Petrol,95106,114910,50.9,350,21.1,Automatic,5,5.0,Pune,4.3,281,2025
+240,Suzuki,Burgman Street,Scooter,Petrol,243207,285868,46.7,350,17.2,Manual,3,4.0,Hyderabad,4.3,1668,2023
+241,Royal Enfield,Hunter 350,Bike,Petrol,142603,159947,78.9,300,13.0,Manual,4,1.0,Kolkata,3.4,518,2024
+242,Ather,450S,Electric Scooter,Electric,151216,178407,111.5,0,7.1,Manual,3,1.0,Kolkata,4.2,1507,2025
+243,TVS,Apache RTR 160,Scooter,Petrol,368472,440584,41.0,150,11.7,Automatic,4,5.0,Kolkata,3.6,911,2023
+244,Hero,Splendor Plus,Scooter,Petrol,206650,248707,57.2,160,34.3,Manual,4,3.0,Bengaluru,3.9,900,2025
+245,KTM,125 Duke,Scooter,Petrol,186950,223960,52.4,250,19.0,Manual,5,3.0,Mumbai,4.7,604,2025
+246,Honda,Hornet 2.0,Scooter,Petrol,399971,456909,47.5,160,18.7,Automatic,3,5.0,Jaipur,4.8,2175,2026
+247,Hero,HF Deluxe,Scooter,Petrol,445392,500909,67.4,160,9.7,Manual,3,5.0,Hyderabad,4.4,224,2024
+248,Suzuki,Gixxer,Scooter,Petrol,431389,488832,64.0,150,17.6,Manual,3,2.0,Lucknow,3.5,527,2024
+249,Royal Enfield,Meteor 350,Scooter,Petrol,389264,437740,69.5,400,29.1,Manual,5,3.0,Bengaluru,3.6,1836,2026
+250,Honda,Hornet 2.0,Scooter,Petrol,141361,156803,67.6,400,29.9,Manual,4,,Jaipur,3.4,412,2026
+251,Bajaj,Pulsar NS160,Scooter,Petrol,195356,228105,40.6,125,21.2,Manual,4,1.0,Hyderabad,3.6,2315,2023
+252,TVS,Sport,Bike,Petrol,369281,438848,58.0,160,42.9,Automatic,5,4.0,Mumbai,3.9,2038,2026
+253,Hero,Splendor Plus,Bike,Petrol,238123,289298,77.5,350,24.1,Manual,3,2.0,Pune,5.0,851,2024
+254,Yamaha,MT-15,Bike,Petrol,247003,279372,69.9,350,23.5,Manual,3,3.0,Lucknow,5.0,869,2023
+255,Ather,450S,Electric Scooter,Electric,95451,115047,112.4,0,7.0,Automatic,5,1.0,Jaipur,3.2,2356,2026
+256,Honda,Unicorn,Bike,Petrol,446873,523456,69.3,400,29.7,Manual,5,2.0,Mumbai,4.6,284,2026
+257,Ola,S1 Air,Electric Scooter,Electric,182088,201793,117.9,0,10.2,Manual,3,5.0,Pune,4.6,304,2023
+258,Hero,Mavrick 440,Bike,Petrol,208927,236047,71.5,110,30.9,Automatic,4,4.0,Mumbai,4.4,1582,2025
+259,Honda,SP 125,Bike,Petrol,171133,194429,71.4,400,7.8,Manual,3,3.0,Pune,3.3,832,2025
+260,Yamaha,MT-15,Bike,Petrol,394317,478347,46.4,160,36.9,Automatic,5,5.0,Hyderabad,4.0,973,2023
+261,Hero,Xtreme 160R,Scooter,Petrol,404387,462144,57.7,400,27.4,Manual,3,5.0,Kolkata,3.6,576,2026
+262,Royal Enfield,Meteor 350,Scooter,Petrol,300497,362146,54.9,400,42.8,Manual,3,3.0,Bengaluru,3.8,2482,2024
+263,Royal Enfield,Classic 350,Bike,Petrol,141240,155589,53.8,125,22.8,Manual,5,5.0,Kolkata,3.5,504,2026
+264,Suzuki,Avenis 125,Bike,Petrol,174814,208856,40.1,110,27.2,Manual,4,1.0,Delhi,3.9,2473,2024
+265,Bajaj,Pulsar NS160,Scooter,Petrol,371083,419117,44.7,400,30.1,Manual,4,,Pune,3.6,421,2026
+266,Ola,S1 Air,Electric Scooter,Electric,100534,118989,172.9,0,10.4,Automatic,3,5.0,Mumbai,3.8,150,2024
+267,Hero,HF Deluxe,Bike,Petrol,208279,252429,77.8,100,25.8,Manual,4,1.0,Kolkata,3.4,314,2025
+268,Suzuki,Burgman Street,Bike,Petrol,176718,212570,56.8,100,30.2,Automatic,5,5.0,Chennai,3.6,1413,2026
+269,Ather,Rizta,Electric Scooter,Electric,144191,162130,182.0,0,13.7,Manual,4,1.0,Kolkata,4.0,348,2025
+270,Honda,Shine,Bike,Petrol,69994,84568,40.5,350,37.5,Manual,4,4.0,Jaipur,4.5,741,2026
+271,Ather,450S,Electric Scooter,Electric,91476,110970,178.4,0,7.3,Manual,5,3.0,Bengaluru,3.8,1865,2026
+272,Suzuki,V-Strom SX,Bike,Petrol,415067,475462,41.8,450,42.3,Automatic,3,1.0,Mumbai,4.6,728,2026
+273,Ather,Rizta,Electric Scooter,Electric,153975,183387,172.7,0,11.8,Manual,5,4.0,Kolkata,4.4,229,2024
+274,KTM,125 Duke,Scooter,Petrol,272574,328914,64.2,160,31.9,Automatic,4,2.0,Lucknow,3.9,2324,2024
+275,Ola,S1 Air,Electric Scooter,Electric,118722,137818,184.8,1,14.1,Manual,3,2.0,Mumbai,3.4,380,2024
+276,Suzuki,Burgman Street,Scooter,Petrol,308056,362401,50.9,200,27.3,Automatic,3,1.0,Chennai,4.5,932,2026
+277,Suzuki,Burgman Street,Bike,Petrol,310172,377788,72.6,150,24.5,Automatic,4,5.0,Hyderabad,3.9,401,2023
+278,Royal Enfield,Himalayan 450,Bike,Petrol,221255,266164,49.7,160,30.9,Automatic,3,3.0,Ahmedabad,3.8,464,2026
+279,Yamaha,MT-15,Scooter,Petrol,408303,496526,50.0,200,,Automatic,5,5.0,Lucknow,3.2,1708,2025
+280,Hero,Xtreme 125R,Scooter,Petrol,388258,441656,74.0,200,28.5,Automatic,5,2.0,Delhi,4.6,1961,2025
+281,KTM,250 Duke,Bike,Petrol,151724,168159,74.6,400,21.8,Automatic,5,3.0,Mumbai,4.5,1309,2026
+282,Bajaj,Pulsar NS200,Scooter,Petrol,176585,204188,53.7,160,31.1,Manual,4,4.0,Pune,4.6,1954,2024
+283,Honda,Unicorn,Bike,Petrol,390329,452798,44.4,450,13.4,Automatic,5,1.0,Jaipur,3.3,927,2025
+284,Hero,Xtreme 160R,Bike,Petrol,214134,252706,48.2,200,24.3,Automatic,4,2.0,Hyderabad,4.4,384,2025
+285,Ola,Roadster X,Bike,Electric,219327,256330,194.9,0,6.5,Manual,4,2.0,Ahmedabad,3.4,1062,2026
+286,KTM,125 Duke,Scooter,Petrol,366494,441097,75.3,450,15.0,Automatic,5,5.0,Kolkata,3.7,1544,2023
+287,Bajaj,Pulsar NS200,Scooter,Petrol,238860,289712,75.9,250,30.5,Automatic,4,4.0,Kolkata,4.0,954,2023
+288,KTM,390 Adventure,Bike,Petrol,410158,453892,48.4,110,25.0,Automatic,5,5.0,Hyderabad,5.0,2050,2026
+289,Ola,Roadster X,Electric Scooter,Electric,146799,165575,112.8,1,8.0,Manual,5,4.0,Delhi,3.8,1046,2026
+290,TVS,Apache RTR 200 4V,Scooter,Petrol,338493,407464,75.9,110,20.0,Manual,5,2.0,Kolkata,4.5,2153,2024
+291,Royal Enfield,Classic 350,Scooter,Petrol,215655,241730,45.8,125,7.1,Automatic,3,2.0,Jaipur,4.5,2238,2026
+292,Honda,Shine,Scooter,Petrol,195956,233824,53.9,110,32.4,Automatic,5,5.0,Delhi,4.6,49,2026
+293,KTM,250 Duke,Bike,Petrol,119353,138209,58.8,350,25.7,Automatic,5,1.0,Bengaluru,4.6,1472,2025
+294,TVS,Raider 125,Bike,Petrol,308935,358741,45.0,100,38.1,Automatic,4,4.0,Kolkata,4.9,1705,2025
+295,Yamaha,FZ-X,Bike,Petrol,402629,482787,74.2,125,13.9,Manual,3,1.0,Pune,3.9,396,2026
+296,Hero,Xtreme 125R,Bike,Petrol,185062,208465,53.5,150,32.6,Manual,4,4.0,Kolkata,4.3,2445,2023
+297,KTM,200 Duke,Bike,Petrol,106235,122701,55.1,100,12.8,Manual,3,2.0,Ahmedabad,4.9,118,2025
+298,Ola,S1 Air,Electric Scooter,Electric,198892,233465,141.3,0,12.0,Automatic,5,1.0,Kolkata,4.9,507,2023
+299,Honda,CB200X,Bike,Petrol,357820,403338,70.5,250,31.6,Automatic,4,4.0,Chennai,3.3,1725,2024
+300,Hero,Splendor Plus,Scooter,Petrol,231536,275632,73.6,100,37.2,Manual,5,4.0,Delhi,4.6,1026,2023
+301,Ola,S1 Air,Electric Scooter,Electric,137265,161723,133.1,0,10.7,Manual,4,5.0,Chennai,4.2,1601,2024
+302,Yamaha,MT-15,Scooter,Petrol,221140,250759,73.1,200,10.3,Manual,3,5.0,Bengaluru,3.7,113,2025
+303,Suzuki,V-Strom SX,Bike,Petrol,122616,147357,66.1,300,19.1,Automatic,5,4.0,Hyderabad,3.8,2234,2025
+304,TVS,Radeon,Bike,Petrol,196379,230691,67.1,100,33.8,Automatic,4,4.0,Bengaluru,3.5,1729,2025
+305,Hero,HF Deluxe,Scooter,Petrol,321446,389411,79.4,300,21.2,Manual,3,4.0,Ahmedabad,3.8,546,2025
+306,Honda,Unicorn,Scooter,Petrol,158079,186170,58.8,400,41.4,Manual,5,3.0,Ahmedabad,4.7,1987,2025
+307,Hero,Xtreme 125R,Scooter,Petrol,371868,424975,50.0,110,39.5,Automatic,5,1.0,Pune,3.5,679,2025
+308,KTM,390 Adventure,Bike,Petrol,136088,158376,72.9,160,34.9,Manual,5,2.0,Lucknow,3.4,984,2024
+309,Ather,Rizta S,Electric Scooter,Electric,101260,120293,129.1,0,8.4,Automatic,4,5.0,Bengaluru,4.2,1696,2026
+310,Bajaj,Pulsar NS160,Scooter,Petrol,118592,141850,77.7,300,38.4,Manual,3,5.0,Kolkata,3.9,452,2023
+311,Yamaha,Fascino 125,Bike,Petrol,357410,419611,63.8,100,33.6,Automatic,5,2.0,Ahmedabad,3.7,1478,2023
+312,Yamaha,FZ-X,Scooter,Petrol,182192,208009,41.3,400,23.4,Manual,3,4.0,Delhi,4.0,561,2023
+313,Hero,Splendor Plus,Bike,Petrol,244689,271402,54.4,160,35.3,Automatic,4,1.0,Delhi,4.2,1686,2023
+314,Yamaha,FZ-FI,Scooter,Petrol,393269,450576,76.5,125,15.4,Automatic,4,5.0,Delhi,3.7,1025,2025
+315,Yamaha,Fascino 125,Scooter,Petrol,194593,235935,67.4,350,29.9,Manual,4,3.0,Mumbai,4.9,1282,2024
+316,Suzuki,V-Strom SX,Bike,Petrol,77306,88327,70.9,125,9.9,Automatic,4,4.0,Ahmedabad,3.8,2438,2023
+317,Suzuki,Gixxer,Scooter,Petrol,234024,276405,57.8,150,22.7,Automatic,5,4.0,Ahmedabad,3.5,741,2026
+318,TVS,Apache RTR 200 4V,Scooter,Petrol,441671,512467,75.2,125,15.8,Automatic,3,5.0,Mumbai,4.8,885,2025
+319,Suzuki,Burgman Street,Bike,Petrol,322336,356235,51.4,400,19.0,Automatic,5,4.0,Mumbai,4.7,2230,2025
+320,Royal Enfield,Classic 350,Bike,Petrol,182229,209937,44.3,250,26.0,Manual,4,1.0,Chennai,4.8,1039,2026
+321,Ola,S1 Air,Electric Scooter,Electric,219794,252196,168.4,1,14.7,Automatic,3,3.0,Pune,3.4,2207,2026
+322,Suzuki,Gixxer,Bike,Petrol,227793,262353,41.0,250,24.5,Manual,3,2.0,Bengaluru,4.8,1102,2025
+323,TVS,Sport,Scooter,Petrol,99785,118436,46.8,350,37.3,Automatic,4,1.0,Jaipur,4.4,125,2026
+324,Honda,SP 125,Bike,Petrol,103346,117458,40.9,160,43.0,Manual,4,2.0,Jaipur,4.0,2111,2025
+325,Hero,Xtreme 125R,Scooter,Petrol,257994,307992,41.1,400,43.0,Manual,5,2.0,Hyderabad,5.0,836,2025
+326,Ola,Roadster X,Electric Scooter,Electric,201477,227091,108.0,0,7.2,Automatic,3,2.0,Hyderabad,4.0,1894,2025
+327,Royal Enfield,Classic 350,Bike,Petrol,169428,196219,74.8,160,34.6,Automatic,5,5.0,Lucknow,3.6,2222,2025
+328,Suzuki,V-Strom SX,Bike,Petrol,406651,453443,69.4,150,22.5,Manual,4,4.0,Bengaluru,4.5,839,2024
+329,TVS,Apache RTR 160,Scooter,Petrol,160598,189148,51.9,250,11.2,Automatic,5,1.0,Hyderabad,4.4,397,2024
+330,Honda,CB200X,Scooter,Petrol,124222,137165,69.5,160,10.1,Automatic,3,2.0,Jaipur,3.5,2192,2026
+331,Bajaj,Pulsar NS160,Scooter,Petrol,405130,482980,63.1,125,44.4,Manual,4,2.0,Mumbai,3.8,1897,2026
+332,Suzuki,Avenis 125,Bike,Petrol,68178,81373,51.2,450,28.1,Manual,4,4.0,Delhi,4.8,1381,2026
+333,Hero,Xtreme 160R,Bike,Petrol,415918,460555,50.1,300,26.4,Manual,4,3.0,Bengaluru,3.8,2239,2024
+334,Hero,HF Deluxe,Scooter,Petrol,80029,88208,57.2,200,12.4,Manual,4,1.0,Ahmedabad,4.5,563,2025
+335,Royal Enfield,Himalayan 450,Scooter,Petrol,319136,389228,74.0,450,11.3,Manual,3,2.0,Ahmedabad,3.4,1891,2023
+336,KTM,125 Duke,Scooter,Petrol,151803,176969,59.3,110,23.2,Manual,5,2.0,Jaipur,4.9,536,2026
+337,Royal Enfield,Meteor 350,Scooter,Petrol,394852,438596,41.0,160,9.6,Automatic,4,2.0,Lucknow,3.9,2049,2024
+338,TVS,Apache RTR 200 4V,Scooter,Petrol,203261,231097,61.0,150,30.0,Automatic,4,3.0,Kolkata,3.2,132,2026
+339,Royal Enfield,Meteor 350,Bike,Petrol,256591,304690,45.1,250,7.6,Manual,3,5.0,Kolkata,3.4,1589,2023
+340,Ather,Rizta,Electric Scooter,Electric,108382,130811,170.2,0,8.0,Manual,5,1.0,Bengaluru,3.5,2247,2025
+341,Ola,Roadster,Bike,Electric,133924,158024,99.4,0,8.8,Automatic,5,1.0,Ahmedabad,3.4,1888,2026
+342,Suzuki,Gixxer,Bike,Petrol,79389,91747,74.9,125,40.9,Manual,3,1.0,Delhi,4.1,861,2024
+343,Ola,Roadster,Electric Scooter,Electric,132234,156461,171.2,0,10.8,Automatic,3,4.0,Bengaluru,4.1,180,2023
+344,Ather,Rizta,Electric Scooter,Electric,160986,179172,114.9,1,14.6,Manual,5,5.0,Jaipur,3.4,220,2026
+345,Suzuki,Gixxer,Scooter,Petrol,250550,300261,61.8,450,31.2,Manual,5,3.0,Pune,3.7,751,2023
+346,KTM,390 Duke,Bike,Petrol,66466,80353,45.4,300,9.8,Automatic,4,4.0,Bengaluru,4.8,55,2023
+347,Ola,S1 X,Bike,Electric,171133,196377,123.3,1,11.8,Automatic,4,2.0,Pune,4.2,2486,2025
+348,Honda,Hornet 2.0,Bike,Petrol,423766,483397,53.8,350,9.4,Manual,4,,Delhi,3.4,1783,2024
+349,TVS,Apache RTR 200 4V,Bike,Petrol,210486,241317,58.1,350,22.8,Automatic,4,4.0,Lucknow,3.3,2274,2024
+350,Suzuki,Access 125,Scooter,Petrol,96728,112498,46.1,400,17.0,Manual,5,4.0,Delhi,3.4,1221,2024
+351,TVS,Sport,Scooter,Petrol,401373,459025,42.3,100,8.6,Manual,3,3.0,Hyderabad,4.2,1668,2025
+352,Ather,450X,Electric Scooter,Electric,96618,113403,106.7,0,8.7,Manual,4,2.0,Kolkata,4.1,1311,2025
+353,Honda,Hornet 2.0,Scooter,Petrol,235205,285281,54.4,400,17.5,Manual,4,2.0,Kolkata,3.8,2447,2024
+354,Ola,S1 Air,Electric Scooter,Electric,161382,186841,199.5,1,11.7,Automatic,4,3.0,Kolkata,5.0,414,2026
+355,Suzuki,Avenis 125,Bike,Petrol,220918,244456,64.4,250,21.5,Automatic,5,2.0,Pune,3.6,2421,2025
+356,KTM,250 Duke,Scooter,Petrol,368994,408909,63.5,100,26.1,Manual,5,2.0,Jaipur,4.0,1600,2025
+357,Suzuki,V-Strom SX,Scooter,Petrol,188099,211081,40.6,100,28.7,Manual,5,5.0,Lucknow,3.7,1363,2025
+358,Suzuki,Burgman Street,Bike,Petrol,433582,487466,57.7,125,14.0,Manual,4,4.0,Pune,4.1,913,2026
+359,Suzuki,Burgman Street,Scooter,Petrol,364182,424780,60.2,160,8.0,Manual,5,1.0,Chennai,3.3,2072,2025
+360,Yamaha,MT-15,Bike,Petrol,296189,337551,61.7,160,24.1,Automatic,3,1.0,Mumbai,3.5,1733,2024
+361,Ather,Rizta,Electric Scooter,Electric,99506,111159,166.0,0,14.5,Manual,4,4.0,Mumbai,4.4,1352,2023
+362,Bajaj,Pulsar NS200,Scooter,Petrol,151126,166642,56.5,150,29.0,Automatic,5,2.0,Ahmedabad,4.2,1825,2026
+363,Suzuki,Avenis 125,Bike,Petrol,367788,413737,43.9,200,30.5,Automatic,3,2.0,Mumbai,4.3,1180,2025
+364,Suzuki,Avenis 125,Scooter,Petrol,235733,270895,78.5,300,22.2,Automatic,5,3.0,Mumbai,4.7,1893,2026
+365,Hero,Xtreme 125R,Scooter,Petrol,444770,536756,42.7,100,43.4,Automatic,4,5.0,Kolkata,4.2,428,2026
+366,Ola,Roadster X,Electric Scooter,Electric,136413,156751,186.8,1,6.3,Manual,5,3.0,Kolkata,4.3,1622,2025
+367,Honda,Shine,Bike,Petrol,323360,363849,48.0,450,28.7,Automatic,5,2.0,Kolkata,4.6,2397,2025
+368,Yamaha,R15 V4,Bike,Petrol,99924,117232,56.5,160,34.9,Manual,5,4.0,Chennai,4.8,1637,2023
+369,Ather,450X,Electric Scooter,Electric,185485,204567,189.9,0,12.3,Automatic,5,5.0,Bengaluru,3.3,1564,2024
+370,Hero,Xtreme 160R,Bike,Petrol,104255,114963,60.9,100,14.5,Automatic,5,2.0,Jaipur,3.8,230,2025
+371,Suzuki,Gixxer,Bike,Petrol,398298,450975,50.2,400,13.9,Manual,5,2.0,Mumbai,4.0,54,2024
+372,Royal Enfield,Classic 350,Scooter,Petrol,341319,382489,73.3,450,10.3,Manual,4,4.0,Ahmedabad,3.9,1362,2025
+373,TVS,Sport,Bike,Petrol,373360,417586,51.7,100,7.8,Automatic,5,5.0,Hyderabad,4.7,632,2024
+374,TVS,Radeon,Bike,Petrol,342833,379141,48.3,350,40.4,Manual,3,5.0,Bengaluru,4.8,1197,2026
+375,Royal Enfield,Classic 350,Scooter,Petrol,89648,108636,70.4,110,32.9,Automatic,5,5.0,Kolkata,3.9,188,2023
+376,Suzuki,Access 125,Bike,Petrol,334745,395202,53.1,250,12.0,Automatic,5,4.0,Lucknow,4.5,603,2025
+377,Yamaha,FZ-X,Scooter,Petrol,417580,485566,49.3,450,7.3,Automatic,3,4.0,Jaipur,3.8,2240,2024
+378,Hero,Xtreme 125R,Scooter,Petrol,447563,540831,55.1,125,36.9,Manual,5,2.0,Hyderabad,4.1,1306,2025
+379,Suzuki,Gixxer,Scooter,Petrol,75785,91958,50.9,200,33.2,Automatic,3,1.0,Ahmedabad,3.6,1317,2025
+380,Yamaha,Fascino 125,Scooter,Petrol,180375,218836,53.2,300,16.0,Automatic,4,3.0,Kolkata,3.4,200,2026
+381,Ola,Roadster X,Electric Scooter,Electric,156916,176707,95.9,0,14.6,Manual,5,1.0,Lucknow,4.2,699,2025
+382,TVS,Apache RTR 200 4V,Bike,Petrol,119970,146093,64.2,125,37.1,Automatic,5,3.0,Hyderabad,4.0,1401,2023
+383,Hero,Xtreme 160R,Scooter,Petrol,437339,498187,44.5,110,18.6,Manual,5,2.0,Hyderabad,3.6,396,2024
+384,Ather,450X,Electric Scooter,Electric,152443,172364,149.9,0,5.6,Manual,3,2.0,Mumbai,4.0,1510,2025
+385,Ather,450 Apex,Electric Scooter,Electric,211519,252598,148.3,1,9.2,Manual,4,2.0,Delhi,3.4,857,2024
+386,Suzuki,Burgman Street,Scooter,Petrol,311356,374088,66.4,200,18.8,Manual,5,1.0,Chennai,3.6,1459,2023
+387,Honda,Shine,Bike,Petrol,428107,479539,60.5,200,35.2,Manual,4,1.0,Mumbai,4.5,904,2023
+388,Hero,Xtreme 160R,Scooter,Petrol,395833,469555,42.9,450,30.6,Manual,4,2.0,Kolkata,4.6,481,2026
+389,Hero,Mavrick 440,Scooter,Petrol,209401,247317,58.1,100,23.9,Manual,5,2.0,Kolkata,4.4,1831,2024
+390,Honda,SP 125,Scooter,Petrol,369962,440458,72.3,110,,Manual,3,4.0,Delhi,4.7,2420,2023
+391,Royal Enfield,Classic 350,Scooter,Petrol,169186,202730,53.0,400,15.9,Manual,5,1.0,Pune,3.6,545,2026
+392,Suzuki,Gixxer,Scooter,Petrol,97574,112467,42.5,125,20.8,Automatic,4,5.0,Bengaluru,3.8,1994,2025
+393,Honda,SP 125,Bike,Petrol,295693,357758,52.8,350,39.1,Automatic,5,3.0,Jaipur,3.3,1926,2023
+394,TVS,Apache RTR 200 4V,Bike,Petrol,100525,119479,43.1,125,25.1,Manual,5,5.0,Pune,3.2,74,2026
+395,KTM,250 Duke,Bike,Petrol,257376,291891,72.1,250,14.6,Manual,4,5.0,Hyderabad,4.6,1049,2025
+396,Bajaj,Pulsar NS160,Scooter,Petrol,321433,378830,52.4,160,38.5,Manual,3,5.0,Lucknow,3.4,911,2023
+397,Hero,HF Deluxe,Bike,Petrol,421742,466097,50.4,450,20.4,Manual,5,1.0,Chennai,3.5,1600,2024
+398,Hero,Mavrick 440,Scooter,Petrol,175114,202087,65.1,250,31.1,Manual,5,3.0,Lucknow,4.3,1936,2023
+399,Hero,Mavrick 440,Scooter,Petrol,148123,177596,65.4,250,30.5,Automatic,3,4.0,Delhi,4.0,1224,2025
+400,KTM,250 Duke,Scooter,Petrol,434359,487863,67.8,450,34.1,Manual,4,2.0,Hyderabad,4.1,2070,2025
+401,Ather,Rizta,Electric Scooter,Electric,85992,97076,183.9,0,11.1,Manual,3,1.0,Delhi,3.6,834,2024
+402,Ather,Rizta,Electric Scooter,Electric,88720,107875,127.7,0,6.6,Manual,5,5.0,Chennai,4.0,934,2026
+403,KTM,390 Adventure,Bike,Petrol,165625,188703,69.2,150,41.8,Manual,3,5.0,Hyderabad,4.9,1437,2026
+404,Ola,S1 Air,Electric Scooter,Electric,162004,195169,118.3,0,7.2,Manual,4,1.0,Lucknow,3.8,101,2023
+405,Honda,CB200X,Bike,Petrol,440233,524520,76.7,125,28.6,Automatic,5,3.0,Delhi,4.7,1341,2026
+406,Royal Enfield,Meteor 350,Scooter,Petrol,290687,333774,73.8,100,8.9,Automatic,4,5.0,Kolkata,3.8,1945,2026
+407,Suzuki,Access 125,Scooter,Petrol,243986,269171,44.5,250,25.4,Manual,5,4.0,Hyderabad,4.5,1547,2024
+408,Hero,Xtreme 160R,Scooter,Petrol,172051,203022,61.4,300,32.9,Manual,4,2.0,Jaipur,3.8,2361,2026
+409,Honda,Hornet 2.0,Scooter,Petrol,447650,533764,77.5,250,34.8,Automatic,5,2.0,Pune,4.1,287,2024
+410,TVS,Raider 125,Scooter,Petrol,160965,193568,53.0,300,25.0,Manual,5,5.0,Chennai,4.6,452,2023
+411,Bajaj,Pulsar NS160,Bike,Petrol,327678,368172,71.6,350,31.1,Manual,3,5.0,Jaipur,4.2,1651,2026
+412,Bajaj,Pulsar NS160,Scooter,Petrol,65363,77594,43.7,110,9.0,Manual,4,3.0,Delhi,4.2,525,2024
+413,Honda,SP 125,Bike,Petrol,93885,113668,75.9,110,34.6,Automatic,4,5.0,Bengaluru,4.1,1035,2026
+414,KTM,250 Duke,Scooter,Petrol,174876,196262,69.1,160,37.6,Manual,3,2.0,Chennai,4.6,2293,2024
+415,Suzuki,V-Strom SX,Scooter,Petrol,137534,165092,60.1,100,34.5,Automatic,4,4.0,Lucknow,4.9,387,2024
+416,Hero,Xtreme 125R,Scooter,Petrol,205183,238456,53.0,300,44.0,Automatic,4,1.0,Mumbai,3.3,834,2026
+417,KTM,250 Duke,Scooter,Petrol,187989,219800,73.1,400,9.4,Manual,4,1.0,Hyderabad,4.0,352,2023
+418,Suzuki,Access 125,Bike,Petrol,218857,256939,50.5,100,,Automatic,3,2.0,Ahmedabad,4.3,1575,2026
+419,Royal Enfield,Classic 350,Bike,Petrol,441970,518031,74.7,400,39.9,Automatic,4,3.0,Mumbai,4.0,963,2025
+420,Yamaha,FZ-FI,Scooter,Petrol,413951,500689,56.8,350,25.5,Automatic,4,5.0,Bengaluru,3.8,2147,2026
+421,KTM,200 Duke,Bike,Petrol,223666,262223,69.7,110,21.3,Manual,3,2.0,Lucknow,4.2,2073,2025
+422,Ola,Roadster X,Bike,Electric,153580,180429,149.1,0,14.0,Manual,4,2.0,Ahmedabad,4.8,1073,2026
+423,Bajaj,Dominar 400,Bike,Petrol,387245,469846,59.0,450,33.4,Automatic,3,5.0,Delhi,5.0,1969,2023
+424,Suzuki,Gixxer,Scooter,Petrol,360901,432009,70.8,150,38.9,Manual,4,5.0,Delhi,3.4,293,2026
+425,Bajaj,Platina 110,Scooter,Petrol,244425,292715,70.1,400,25.5,Manual,4,4.0,Chennai,3.8,1233,2023
+426,Bajaj,Pulsar NS160,Bike,Petrol,169824,191743,49.4,160,22.2,Manual,4,4.0,Mumbai,3.3,813,2023
+427,Suzuki,V-Strom SX,Scooter,Petrol,418699,469646,65.2,350,40.0,Automatic,5,1.0,Kolkata,3.7,2007,2026
+428,Ather,Rizta S,Electric Scooter,Electric,112675,127853,115.1,1,,Manual,4,1.0,Ahmedabad,4.2,1203,2024
+429,Suzuki,Burgman Street,Bike,Petrol,398245,451561,66.6,200,9.9,Automatic,5,2.0,Delhi,4.4,256,2024
+430,Ola,S1 Air,Electric Scooter,Electric,187326,218111,190.1,1,8.6,Automatic,5,4.0,Hyderabad,4.6,1147,2023
+431,Honda,Hornet 2.0,Bike,Petrol,352307,424488,62.0,300,34.6,Manual,4,5.0,Hyderabad,3.3,174,2023
+432,Hero,HF Deluxe,Bike,Petrol,364340,423211,66.0,110,13.7,Automatic,5,5.0,Kolkata,3.2,1150,2026
+433,Honda,SP 125,Bike,Petrol,331294,366510,79.5,400,19.5,Manual,4,3.0,Bengaluru,4.1,1226,2026
+434,Hero,Mavrick 440,Scooter,Petrol,302268,337371,43.2,100,36.4,Manual,3,3.0,Bengaluru,4.6,1879,2026
+435,Hero,Mavrick 440,Bike,Petrol,150936,182491,79.5,400,26.4,Automatic,5,5.0,Ahmedabad,4.9,925,2024
+436,Yamaha,FZ-FI,Scooter,Petrol,175084,212597,45.7,110,19.3,Automatic,3,1.0,Bengaluru,4.7,754,2026
+437,Bajaj,Pulsar 125,Bike,Petrol,446164,496957,60.4,250,9.8,Automatic,5,3.0,Chennai,4.2,2258,2023
+438,Honda,Unicorn,Bike,Petrol,139231,162135,43.7,400,43.5,Manual,5,2.0,Hyderabad,4.5,432,2024
+439,Royal Enfield,Bullet 350,Bike,Petrol,267278,321375,56.2,150,44.1,Manual,3,1.0,Hyderabad,4.2,23,2023
+440,Honda,SP 125,Bike,Petrol,213178,255401,64.5,100,39.4,Manual,3,4.0,Jaipur,4.6,929,2026
+441,Bajaj,Pulsar NS200,Bike,Petrol,246323,285868,68.2,160,15.5,Manual,5,4.0,Pune,4.0,1765,2024
+442,Suzuki,Access 125,Bike,Petrol,94777,111761,74.7,200,42.2,Manual,4,3.0,Jaipur,4.8,1288,2025
+443,Bajaj,Pulsar NS160,Bike,Petrol,234357,266876,53.9,150,38.8,Automatic,4,3.0,Pune,3.7,825,2026
+444,Yamaha,FZ-X,Bike,Petrol,310847,360248,45.6,250,19.0,Manual,4,2.0,Pune,4.6,595,2025
+445,KTM,125 Duke,Scooter,Petrol,403246,447857,67.3,125,30.1,Automatic,4,2.0,Pune,5.0,427,2026
+446,Yamaha,MT-15,Bike,Petrol,73177,88866,52.4,125,12.1,Manual,3,1.0,Kolkata,3.7,1562,2026
+447,Yamaha,R15 V4,Bike,Petrol,288177,346950,40.3,125,12.3,Automatic,5,3.0,Hyderabad,3.6,1201,2026
+448,Yamaha,R15 V4,Bike,Petrol,350291,385850,57.3,150,35.4,Automatic,3,3.0,Delhi,,189,2024
+449,TVS,Apache RTR 160,Bike,Petrol,159202,180737,70.6,450,37.8,Manual,3,4.0,Kolkata,5.0,1842,2023
+450,Royal Enfield,Himalayan 450,Scooter,Petrol,320095,373932,58.3,350,35.6,Manual,5,5.0,Lucknow,4.2,2174,2026
+451,KTM,200 Duke,Scooter,Petrol,370313,420518,57.8,450,24.1,Automatic,5,4.0,Jaipur,3.3,2453,2025
+452,Suzuki,Access 125,Bike,Petrol,178034,212413,46.5,250,11.0,Automatic,4,4.0,Jaipur,4.0,2426,2023
+453,Ola,Roadster,Electric Scooter,Electric,131705,146223,148.2,0,13.2,Automatic,5,2.0,Lucknow,4.0,1333,2024
+454,Suzuki,Access 125,Scooter,Petrol,344349,400610,63.4,110,40.3,Manual,5,5.0,Kolkata,4.0,1892,2024
+455,KTM,390 Adventure,Bike,Petrol,122241,136424,50.3,400,41.2,Manual,4,5.0,Lucknow,4.1,1938,2026
+456,Yamaha,Fascino 125,Scooter,Petrol,149146,174851,57.5,125,37.0,Automatic,4,2.0,Delhi,4.7,1135,2024
+457,Honda,Unicorn,Scooter,Petrol,331186,369406,67.2,450,31.6,Automatic,5,1.0,Jaipur,4.6,605,2025
+458,Bajaj,Pulsar NS160,Scooter,Petrol,192101,221152,68.1,400,9.1,Manual,3,2.0,Mumbai,3.8,511,2023
+459,Hero,Splendor Plus,Bike,Petrol,426417,502945,66.5,400,32.9,Automatic,4,5.0,Delhi,3.2,268,2026
+460,Ola,S1 Air,Electric Scooter,Electric,128162,143089,180.3,1,10.7,Automatic,3,5.0,Kolkata,3.5,209,2025
+461,Yamaha,Fascino 125,Scooter,Petrol,159455,187491,42.0,400,30.0,Manual,3,2.0,Lucknow,4.2,558,2024
+462,Suzuki,Access 125,Scooter,Petrol,246071,300157,61.0,200,14.7,Manual,3,3.0,Ahmedabad,4.9,1574,2025
+463,Hero,Xtreme 125R,Scooter,Petrol,355011,419882,68.6,160,40.9,Manual,4,2.0,Jaipur,4.6,1162,2025
+464,KTM,200 Duke,Scooter,Petrol,233600,265995,44.2,125,29.9,Automatic,4,2.0,Mumbai,4.7,2261,2024
+465,Royal Enfield,Meteor 350,Bike,Petrol,74583,90615,52.0,100,18.9,Manual,4,1.0,Bengaluru,4.5,1364,2026
+466,Yamaha,FZ-X,Bike,Petrol,236929,282201,59.3,300,12.5,Manual,5,1.0,Bengaluru,3.6,921,2025
+467,Ather,450X,Electric Scooter,Electric,109398,125661,144.3,1,9.5,Automatic,4,2.0,Kolkata,4.8,2235,2025
+468,Suzuki,Gixxer,Bike,Petrol,93930,104489,50.4,100,41.0,Automatic,3,4.0,Hyderabad,4.0,685,2026
+469,Hero,Xtreme 160R,Scooter,Petrol,168535,187505,72.7,150,12.5,Manual,3,,Bengaluru,3.4,628,2023
+470,TVS,Apache RTR 200 4V,Bike,Petrol,324427,363291,46.7,150,16.0,Manual,4,2.0,Chennai,3.6,1648,2025
+471,Suzuki,Avenis 125,Scooter,Petrol,401473,489394,58.2,125,38.6,Manual,4,3.0,Delhi,5.0,1987,2025
+472,Bajaj,Dominar 400,Scooter,Petrol,321210,377639,74.3,110,21.5,Manual,5,4.0,Bengaluru,4.2,515,2024
+473,KTM,250 Duke,Bike,Petrol,389676,450812,75.0,350,30.7,Automatic,4,1.0,Mumbai,4.5,2447,2026
+474,KTM,390 Adventure,Bike,Petrol,396612,475443,52.0,110,12.6,Manual,4,3.0,Bengaluru,4.8,883,2026
+475,Yamaha,Fascino 125,Scooter,Petrol,144569,176363,76.5,150,38.1,Manual,5,1.0,Hyderabad,4.8,821,2024
+476,Royal Enfield,Himalayan 450,Bike,Petrol,364564,405402,78.6,100,18.4,Manual,5,2.0,Jaipur,3.7,914,2024
+477,Honda,Unicorn,Scooter,Petrol,217131,260232,56.6,250,44.5,Manual,3,1.0,Mumbai,3.6,1655,2023
+478,KTM,200 Duke,Scooter,Petrol,312113,371521,69.3,450,20.7,Manual,5,3.0,Bengaluru,4.1,2183,2026
+479,Royal Enfield,Bullet 350,Scooter,Petrol,399521,451401,75.6,100,34.2,Automatic,4,5.0,Hyderabad,3.4,1591,2026
+480,Yamaha,Fascino 125,Bike,Petrol,412761,501542,53.8,300,40.5,Manual,3,3.0,Chennai,3.8,337,2025
+481,Suzuki,Gixxer,Scooter,Petrol,236999,260911,63.5,125,26.7,Manual,3,1.0,Bengaluru,4.8,376,2026
+482,Suzuki,Burgman Street,Scooter,Petrol,364531,437289,54.1,400,30.9,Manual,4,5.0,Delhi,4.2,1898,2025
+483,Honda,SP 125,Bike,Petrol,306356,341795,79.8,400,23.8,Manual,4,2.0,Pune,3.2,667,2025
+484,Ather,Rizta,Electric Scooter,Electric,119550,136317,113.9,1,14.1,Automatic,5,4.0,Bengaluru,4.3,1596,2025
+485,Suzuki,Burgman Street,Bike,Petrol,190580,214680,58.3,400,36.6,Manual,4,1.0,Mumbai,4.5,1067,2025
+486,Yamaha,R15 V4,Bike,Petrol,196049,230501,79.4,200,20.6,Automatic,4,1.0,Hyderabad,4.9,844,2025
+487,Ather,Rizta,Electric Scooter,Electric,165986,184151,90.5,0,13.9,Manual,3,3.0,Pune,4.5,1536,2024
+488,Bajaj,Dominar 400,Bike,Petrol,374801,443873,77.0,400,10.9,Manual,5,2.0,Pune,4.7,1574,2025
+489,KTM,125 Duke,Scooter,Petrol,325928,372942,44.9,200,18.7,Automatic,3,1.0,Chennai,4.7,388,2024
+490,Suzuki,V-Strom SX,Scooter,Petrol,371604,450525,66.9,450,10.3,Automatic,4,5.0,Jaipur,4.9,1102,2025
+491,Hero,HF Deluxe,Scooter,Petrol,429446,500037,63.0,160,44.3,Manual,3,2.0,Ahmedabad,4.2,880,2023
+492,Royal Enfield,Classic 350,Bike,Petrol,362651,402059,61.7,150,26.0,Automatic,4,1.0,Lucknow,4.1,1356,2023
+493,Hero,Xtreme 125R,Bike,Petrol,409076,481551,48.5,350,10.2,Automatic,4,5.0,Jaipur,4.6,2444,2026
+494,Royal Enfield,Meteor 350,Bike,Petrol,68543,79896,69.4,100,12.0,Manual,4,4.0,Lucknow,4.7,951,2026
+495,Ola,Roadster X,Electric Scooter,Electric,197113,225247,91.8,1,11.2,Automatic,3,5.0,Pune,3.8,987,2023
+496,Honda,Hornet 2.0,Scooter,Petrol,389036,460635,45.1,125,13.1,Automatic,4,1.0,Delhi,4.7,410,2025
+497,Ather,450 Apex,Scooter,Electric,194331,224769,154.3,0,9.9,Manual,4,1.0,Kolkata,4.2,1106,2023
+498,Yamaha,FZ-FI,Bike,Petrol,305346,348121,76.3,300,25.5,Manual,4,5.0,Lucknow,3.5,231,2025
+499,Hero,Xtreme 125R,Scooter,Petrol,402935,489913,62.1,125,24.0,Manual,3,1.0,Pune,4.0,2461,2023
+500,Honda,Shine,Scooter,Petrol,200996,229266,49.5,150,36.5,Automatic,4,5.0,Mumbai,4.3,246,2024
